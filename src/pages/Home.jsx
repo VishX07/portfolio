@@ -4,6 +4,7 @@ import Hero from "../sections/Hero";
 import About from "../sections/About";
 import Skills from "../sections/Skills";
 import Projects from "../sections/Projects";
+import RequestFlow from "../sections/RequestFlow";
 import DSAPreview from "../sections/DSAPreview";
 import Timeline from "../sections/Timeline";
 import Contact from "../sections/Contact";
@@ -27,6 +28,7 @@ export default function Home() {
       <About />
       <Skills />
       <Projects />
+      <RequestFlow />
       <DSAPreview />
       <Timeline />
       <Contact />

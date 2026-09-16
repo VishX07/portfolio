@@ -8,6 +8,7 @@ const links = [
   { label: "About", href: "about" },
   { label: "Skills", href: "skills" },
   { label: "Projects", href: "projects" },
+  { label: "Request Flow", href: "request-flow" },
   { label: "DSA", href: "dsa-preview" },
   { label: "Timeline", href: "timeline" },
   { label: "Contact", href: "contact" },
